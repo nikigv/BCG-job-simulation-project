@@ -4,4 +4,4 @@ Task 2 - EDA
 
 Task 3 - Feature Engineering
 
-Task 4 - Executive Summary PPT
+Task 4 - Predictive model for Churn & Executive Summary PPT
